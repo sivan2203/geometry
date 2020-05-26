@@ -1,6 +1,12 @@
 *
-!Makefile
-!.c
-!Readme.md
+!README.md
 !.gitignore
 !.clang-format
+!*.c
+!Makefile
+!*.h
+!bin
+!build
+!src
+!.gitkeep
+!.travis.yml
