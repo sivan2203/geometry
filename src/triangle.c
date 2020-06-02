@@ -9,8 +9,8 @@ void Vvod_Koordinat_triangle(Triangle* t)
         printf("Введите координаты вершины %d: ", i);
         scanf("%d %d", &t->P[i].x, &t->P[i].y);
     }
-    t->P[4].x = t->P[1].x;
-    t->P[4].y = t->P[1].y;
+//     t->P[4].x = t->P[1].x;
+//     t->P[4].y = t->P[1].y;
 }
 
 void print_triangle(Triangle* t, FILE* f)
