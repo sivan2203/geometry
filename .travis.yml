@@ -1,8 +1,5 @@
-dist: xenial
 language: C 
-
-script:
-  -make
+script: make
   
 
 
